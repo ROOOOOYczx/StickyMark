@@ -1,0 +1,12 @@
+bin/
+obj/
+work/
+release/
+release-webview2/
+StickyMark-WebView2-win-x64/
+.vs/
+.idea/
+*.user
+*.suo
+*.pdb
+
